@@ -21,12 +21,11 @@
 
 ## 📈 Problem Solving
 I actively practice on:  
-- [LeetCode]([https://leetcode.com/](https://leetcode.com/u/mM7lBLFjJa/))  
-- [Codeforces]([https://codeforces.com/](https://codeforces.com/profile/AzBeliever))  
+- [LeetCode](https://leetcode.com/u/mM7lBLFjJa/)  
+- [Codeforces](https://codeforces.com/profile/AzBeliever)  
 - [HackerRank](https://www.hackerrank.com/)  
 - [CSES Problem Set](https://cses.fi/)  
 
----
 
 ## 📫 Contact
 - Email: **ajhar.cse.146@gmail.com**  
