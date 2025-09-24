@@ -14,15 +14,15 @@
 ---
 
 ## 📂 Projects
-- [**Engineering Bookstore Web App**](https://ajhar146.github.io/projects) – A full-stack project for managing and buying engineering books  
-- [**Machine Learning Experiments**](https://ajhar146.github.io/projects) – Implementations of ML models and algorithms in Python  
+- [**Engineering Bookstore Web App**]([https://ajhar146.github.io/projects](https://github.com/Ajhar146/engineering-bookstore-Web-App)) – A full-stack project for managing and buying engineering books  
+- 
 
 ---
 
 ## 📈 Problem Solving
 I actively practice on:  
-- [LeetCode](https://leetcode.com/)  
-- [Codeforces](https://codeforces.com/)  
+- [LeetCode]([https://leetcode.com/](https://leetcode.com/u/mM7lBLFjJa/))  
+- [Codeforces]([https://codeforces.com/](https://codeforces.com/profile/AzBeliever))  
 - [HackerRank](https://www.hackerrank.com/)  
 - [CSES Problem Set](https://cses.fi/)  
 
