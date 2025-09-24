@@ -1,4 +1,41 @@
-## Hi there 👋
+# Hi, I'm Md. Ajhar Uddin 👋
+
+🎓 Computer Science & Engineering student at **RUET**  
+💻 Passionate about **Data Science, Machine Learning, and Problem Solving**  
+🌱 Currently exploring **Data Science and Machine Learning**
+
+---
+
+## 🛠 Skills
+- **Languages:** C, C++, Python, Java, JavaScript  
+- **Data Science & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow  
+- **Tools:** Git, GitHub, Jupyter Notebook, SQL, Linux, LaTeX  
+
+---
+
+## 📂 Projects
+- [**Engineering Bookstore Web App**](https://ajhar146.github.io/projects) – A full-stack project for managing and buying engineering books  
+- [**Machine Learning Experiments**](https://ajhar146.github.io/projects) – Implementations of ML models and algorithms in Python  
+
+---
+
+## 📈 Problem Solving
+I actively practice on:  
+- [LeetCode](https://leetcode.com/)  
+- [Codeforces](https://codeforces.com/)  
+- [HackerRank](https://www.hackerrank.com/)  
+- [CSES Problem Set](https://cses.fi/)  
+
+---
+
+## 📫 Contact
+- Email: **ajhar.cse.146@gmail.com**  
+- Location: Rajshahi, Bangladesh  
+- GitHub: [ajhar146](https://github.com/ajhar146)  
+- Portfolio: [ajhar146.github.io](https://ajhar146.github.io/)  
+
+---
+
 
 <!--
 **Ajhar146/Ajhar146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
