@@ -14,10 +14,9 @@
 ---
 
 ## 📂 Projects
-- [**Engineering Bookstore Web App**]([https://ajhar146.github.io/projects](https://github.com/Ajhar146/engineering-bookstore-Web-App)) – A full-stack project for managing and buying engineering books  
-- 
+- [**Engineering Bookstore Web App**](https://github.com/Ajhar146/engineering-bookstore-Web-App) – A full-stack project for managing and buying engineering books  
+- [**Portfolio Website**](https://ajhar146.github.io/projects) – Personal portfolio showcasing skills, projects, and achievements  
 
----
 
 ## 📈 Problem Solving
 I actively practice on:  
