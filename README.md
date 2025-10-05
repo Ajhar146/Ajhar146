@@ -15,7 +15,7 @@
 
 ## 📂 Projects
 - [**Engineering Bookstore Web App**](https://github.com/Ajhar146/engineering-bookstore-Web-App) – A full-stack project for managing and buying engineering books  
-- [**Portfolio Website**](https://ajhar146.github.io/projects) – Personal portfolio showcasing skills, projects, and achievements  
+- [**Portfolio Website**](https://ajhar146.github.io/) – Personal portfolio showcasing skills, projects, and achievements  
 
 
 ## 📈 Problem Solving
@@ -35,17 +35,3 @@ I actively practice on:
 ---
 
 
-<!--
-**Ajhar146/Ajhar146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
